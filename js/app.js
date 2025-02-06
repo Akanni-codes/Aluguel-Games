@@ -4,7 +4,7 @@ function alterarStatus(id) {
     let botao = gameClicado.querySelector('.dashboard__item__button')
     let nomeDoJogo = gameClicado.querySelector('.dashboard__item__name')
 
-    
+    alert(nomeDoJogo.textContent);
 
 
 
